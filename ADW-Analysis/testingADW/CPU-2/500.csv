@@ -1,0 +1,501 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1622487597772,10331,HTTP Request,503,Service Unavailable,oracleADW 1-42,text,false,,17783,228,500,500,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,10065,0,6714
+1622487597772,10365,HTTP Request,503,Service Unavailable,oracleADW 1-259,text,false,,17783,228,499,499,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,10073,0,6709
+1622487597772,10377,HTTP Request,503,Service Unavailable,oracleADW 1-47,text,false,,17783,228,498,498,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,10097,0,6785
+1622487597771,10415,HTTP Request,503,Service Unavailable,oracleADW 1-41,text,false,,17783,228,497,497,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,10132,0,6834
+1622487597766,10431,HTTP Request,503,Service Unavailable,oracleADW 1-45,text,false,,17783,228,496,496,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,10133,0,6828
+1622487597766,10443,HTTP Request,503,Service Unavailable,oracleADW 1-157,text,false,,17783,228,495,495,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,10164,0,6870
+1622487597754,10458,HTTP Request,503,Service Unavailable,oracleADW 1-93,text,false,,17783,228,494,494,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,10170,0,6881
+1622487597786,10434,HTTP Request,503,Service Unavailable,oracleADW 1-277,text,false,,17781,228,493,493,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,10156,0,6881
+1622487597766,10486,HTTP Request,503,Service Unavailable,oracleADW 1-19,text,false,,17783,228,492,492,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,10203,0,6905
+1622487597786,10475,HTTP Request,503,Service Unavailable,oracleADW 1-295,text,false,,17783,228,491,491,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,10199,0,6937
+1622487597786,10513,HTTP Request,503,Service Unavailable,oracleADW 1-14,text,false,,17783,228,490,490,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,10231,0,6936
+1622487597771,10531,HTTP Request,503,Service Unavailable,oracleADW 1-24,text,false,,17781,228,489,489,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,10244,0,6953
+1622487597787,10516,HTTP Request,503,Service Unavailable,oracleADW 1-269,text,false,,17783,228,488,488,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,10236,0,6963
+1622487597766,10544,HTTP Request,503,Service Unavailable,oracleADW 1-209,text,false,,17783,228,487,487,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,10255,0,6947
+1622487597758,10555,HTTP Request,503,Service Unavailable,oracleADW 1-244,text,false,,17781,228,486,486,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,10274,0,6996
+1622487597767,10606,HTTP Request,503,Service Unavailable,oracleADW 1-27,text,false,,17783,228,485,485,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,10327,0,7037
+1622487597787,10635,HTTP Request,503,Service Unavailable,oracleADW 1-299,text,false,,17783,228,484,484,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,10354,0,7056
+1622487597758,10668,HTTP Request,503,Service Unavailable,oracleADW 1-131,text,false,,17783,228,483,483,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,10386,0,7074
+1622487597766,10662,HTTP Request,503,Service Unavailable,oracleADW 1-356,text,false,,17783,228,482,482,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,10377,0,7027
+1622487597787,10647,HTTP Request,503,Service Unavailable,oracleADW 1-304,text,false,,17781,228,481,481,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,10359,0,7061
+1622487597767,10684,HTTP Request,503,Service Unavailable,oracleADW 1-97,text,false,,17783,228,480,480,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,10402,0,7111
+1622487597758,10696,HTTP Request,503,Service Unavailable,oracleADW 1-10,text,false,,17783,228,479,479,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,10409,0,7131
+1622487597787,10706,HTTP Request,503,Service Unavailable,oracleADW 1-118,text,false,,17781,228,478,478,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,10427,0,7122
+1622487597802,10695,HTTP Request,503,Service Unavailable,oracleADW 1-363,text,false,,17783,228,477,477,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,10416,0,7118
+1622487597787,10717,HTTP Request,503,Service Unavailable,oracleADW 1-290,text,false,,17781,228,476,476,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,10429,0,7151
+1622487597767,10738,HTTP Request,503,Service Unavailable,oracleADW 1-148,text,false,,17783,228,475,475,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,10464,0,7183
+1622487597787,10735,HTTP Request,503,Service Unavailable,oracleADW 1-300,text,false,,17783,228,474,474,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,10441,0,7115
+1622487597801,10734,HTTP Request,503,Service Unavailable,oracleADW 1-365,text,false,,17783,228,473,473,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,10458,0,7172
+1622487597787,10761,HTTP Request,503,Service Unavailable,oracleADW 1-289,text,false,,17781,228,472,472,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,10484,0,7200
+1622487597787,10767,HTTP Request,503,Service Unavailable,oracleADW 1-173,text,false,,17783,228,471,471,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,10477,0,7188
+1622487597767,10800,HTTP Request,503,Service Unavailable,oracleADW 1-167,text,false,,17783,228,470,470,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,10518,0,7244
+1622487597767,10814,HTTP Request,503,Service Unavailable,oracleADW 1-176,text,false,,17781,228,469,469,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,10534,0,7263
+1622487597767,10867,HTTP Request,503,Service Unavailable,oracleADW 1-226,text,false,,17783,228,468,468,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,10585,0,7301
+1622487597787,10848,HTTP Request,503,Service Unavailable,oracleADW 1-285,text,false,,17783,228,467,467,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,10563,0,7267
+1622487597771,10891,HTTP Request,503,Service Unavailable,oracleADW 1-67,text,false,,17783,228,466,466,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,10611,0,7305
+1622487597767,10907,HTTP Request,503,Service Unavailable,oracleADW 1-61,text,false,,17783,228,465,465,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,10630,0,7324
+1622487597771,10917,HTTP Request,503,Service Unavailable,oracleADW 1-85,text,false,,17781,228,464,464,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,10635,0,7346
+1622487597788,10903,HTTP Request,503,Service Unavailable,oracleADW 1-286,text,false,,17781,228,463,463,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,10612,0,7314
+1622487597767,10949,HTTP Request,503,Service Unavailable,oracleADW 1-4,text,false,,17783,228,462,462,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,10671,0,7396
+1622487597771,10979,HTTP Request,503,Service Unavailable,oracleADW 1-56,text,false,,17781,228,461,461,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,10693,0,7403
+1622487597788,10985,HTTP Request,503,Service Unavailable,oracleADW 1-360,text,false,,17783,228,460,460,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,10699,0,7364
+1622487597788,10987,HTTP Request,503,Service Unavailable,oracleADW 1-281,text,false,,17781,228,459,459,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,10702,0,7412
+1622487597788,10988,HTTP Request,503,Service Unavailable,oracleADW 1-282,text,false,,17783,228,458,458,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,10685,0,7396
+1622487597767,11013,HTTP Request,503,Service Unavailable,oracleADW 1-186,text,false,,17783,228,457,457,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,10738,0,7417
+1622487597767,11014,HTTP Request,503,Service Unavailable,oracleADW 1-62,text,false,,17783,228,456,456,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,10735,0,7447
+1622487597770,11019,HTTP Request,503,Service Unavailable,oracleADW 1-48,text,false,,17781,228,455,455,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,10738,0,7459
+1622487597788,11021,HTTP Request,503,Service Unavailable,oracleADW 1-245,text,false,,17783,228,454,454,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,10743,0,7448
+1622487597801,11015,HTTP Request,503,Service Unavailable,oracleADW 1-369,text,false,,17781,228,453,453,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,10737,0,7454
+1622487597770,11078,HTTP Request,503,Service Unavailable,oracleADW 1-263,text,false,,17781,228,452,452,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,10796,0,7519
+1622487597770,11103,HTTP Request,503,Service Unavailable,oracleADW 1-159,text,false,,17783,228,451,451,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,10819,0,7521
+1622487597803,11077,HTTP Request,503,Service Unavailable,oracleADW 1-373,text,false,,17783,228,450,450,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,10798,0,7505
+1622487597770,11139,HTTP Request,503,Service Unavailable,oracleADW 1-17,text,false,,17781,228,449,449,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,10863,0,7569
+1622487597770,11167,HTTP Request,503,Service Unavailable,oracleADW 1-205,text,false,,17781,228,448,448,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,10887,0,7612
+1622487597768,11177,HTTP Request,503,Service Unavailable,oracleADW 1-257,text,false,,17781,228,447,447,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,10896,0,7622
+1622487597767,11182,HTTP Request,503,Service Unavailable,oracleADW 1-7,text,false,,17781,228,446,446,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,10893,0,7586
+1622487597768,11186,HTTP Request,503,Service Unavailable,oracleADW 1-177,text,false,,17783,228,445,445,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,10910,0,7614
+1622487597768,11221,HTTP Request,503,Service Unavailable,oracleADW 1-165,text,false,,17781,228,444,444,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,10943,0,7645
+1622487597801,11213,HTTP Request,503,Service Unavailable,oracleADW 1-366,text,false,,17783,228,443,443,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,10915,0,7581
+1622487597769,11257,HTTP Request,503,Service Unavailable,oracleADW 1-287,text,false,,17781,228,442,442,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,10980,0,7704
+1622487597758,11286,HTTP Request,503,Service Unavailable,oracleADW 1-138,text,false,,17781,228,441,441,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11007,0,7715
+1622487597769,11297,HTTP Request,503,Service Unavailable,oracleADW 1-116,text,false,,17783,228,440,440,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11007,0,7694
+1622487597767,11309,HTTP Request,503,Service Unavailable,oracleADW 1-211,text,false,,17781,228,439,439,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11019,0,7719
+1622487597769,11325,HTTP Request,503,Service Unavailable,oracleADW 1-114,text,false,,17781,228,438,438,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11044,0,7750
+1622487597758,11348,HTTP Request,503,Service Unavailable,oracleADW 1-140,text,false,,17783,228,437,437,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11071,0,7762
+1622487597769,11348,HTTP Request,503,Service Unavailable,oracleADW 1-160,text,false,,17781,228,436,436,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11064,0,7777
+1622487597768,11359,HTTP Request,503,Service Unavailable,oracleADW 1-292,text,false,,17781,228,435,435,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11079,0,7788
+1622487597769,11382,HTTP Request,503,Service Unavailable,oracleADW 1-227,text,false,,17781,228,434,434,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11094,0,7806
+1622487597757,11396,HTTP Request,503,Service Unavailable,oracleADW 1-161,text,false,,17781,228,433,433,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11114,0,7840
+1622487597769,11400,HTTP Request,503,Service Unavailable,oracleADW 1-147,text,false,,17781,228,432,432,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11125,0,7844
+1622487597768,11402,HTTP Request,503,Service Unavailable,oracleADW 1-181,text,false,,17783,228,431,431,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11122,0,7830
+1622487597757,11430,HTTP Request,503,Service Unavailable,oracleADW 1-155,text,false,,17781,228,430,430,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11149,0,7864
+1622487597768,11458,HTTP Request,503,Service Unavailable,oracleADW 1-251,text,false,,17781,228,429,429,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11180,0,7868
+1622487597769,11468,HTTP Request,503,Service Unavailable,oracleADW 1-216,text,false,,17781,228,428,428,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11192,0,7917
+1622487597804,11458,HTTP Request,503,Service Unavailable,oracleADW 1-370,text,false,,17783,228,427,427,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11179,0,7868
+1622487597769,11535,HTTP Request,503,Service Unavailable,oracleADW 1-99,text,false,,17783,228,426,426,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11250,0,7934
+1622487597769,11552,HTTP Request,503,Service Unavailable,oracleADW 1-63,text,false,,17783,228,425,425,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11273,0,7961
+1622487597768,11566,HTTP Request,503,Service Unavailable,oracleADW 1-185,text,false,,17781,228,424,424,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11286,0,7989
+1622487597769,11583,HTTP Request,503,Service Unavailable,oracleADW 1-207,text,false,,17781,228,423,423,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11294,0,8008
+1622487597757,11609,HTTP Request,503,Service Unavailable,oracleADW 1-223,text,false,,17783,228,422,422,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11318,0,8000
+1622487597868,11521,HTTP Request,503,Service Unavailable,oracleADW 1-387,text,false,,17783,228,421,421,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11238,0,7940
+1622487597769,11635,HTTP Request,503,Service Unavailable,oracleADW 1-151,text,false,,17781,228,420,420,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11347,0,8041
+1622487597873,11533,HTTP Request,503,Service Unavailable,oracleADW 1-388,text,false,,17781,228,419,419,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11253,0,7983
+1622487597708,11719,HTTP Request,503,Service Unavailable,oracleADW 1-315,text,false,,17783,228,418,418,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11423,0,8112
+1622487597868,11560,HTTP Request,503,Service Unavailable,oracleADW 1-384,text,false,,17781,228,417,417,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11275,0,7969
+1622487597870,11570,HTTP Request,503,Service Unavailable,oracleADW 1-383,text,false,,17781,228,416,416,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11283,0,7988
+1622487597877,11563,HTTP Request,503,Service Unavailable,oracleADW 1-395,text,false,,17781,228,415,415,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11283,0,7989
+1622487597876,11577,HTTP Request,503,Service Unavailable,oracleADW 1-382,text,false,,17781,228,414,414,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11296,0,8009
+1622487597879,11576,HTTP Request,503,Service Unavailable,oracleADW 1-385,text,false,,17781,228,413,413,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11297,0,8011
+1622487597880,11592,HTTP Request,503,Service Unavailable,oracleADW 1-389,text,false,,17783,228,412,412,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11313,0,8018
+1622487597881,11624,HTTP Request,503,Service Unavailable,oracleADW 1-390,text,false,,17781,228,411,411,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11341,0,8052
+1622487597882,11631,HTTP Request,503,Service Unavailable,oracleADW 1-393,text,false,,17781,228,410,410,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11348,0,8061
+1622487597884,11665,HTTP Request,503,Service Unavailable,oracleADW 1-394,text,false,,17781,228,409,409,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11383,0,8089
+1622487597884,11678,HTTP Request,503,Service Unavailable,oracleADW 1-399,text,false,,17781,228,408,408,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11392,0,8088
+1622487597884,11680,HTTP Request,503,Service Unavailable,oracleADW 1-392,text,false,,17783,228,407,407,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11402,0,8099
+1622487597887,11706,HTTP Request,503,Service Unavailable,oracleADW 1-391,text,false,,17783,228,406,406,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11428,0,8139
+1622487597883,11714,HTTP Request,503,Service Unavailable,oracleADW 1-397,text,false,,17781,228,405,405,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11434,0,8134
+1622487597884,11723,HTTP Request,503,Service Unavailable,oracleADW 1-396,text,false,,17781,228,404,404,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11434,0,8134
+1622487597886,11740,HTTP Request,503,Service Unavailable,oracleADW 1-386,text,false,,17783,228,403,403,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11460,0,8162
+1622487597888,11739,HTTP Request,503,Service Unavailable,oracleADW 1-402,text,false,,17781,228,403,403,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11461,0,8175
+1622487597887,11763,HTTP Request,503,Service Unavailable,oracleADW 1-400,text,false,,17783,228,401,401,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11484,0,8174
+1622487597892,11767,HTTP Request,503,Service Unavailable,oracleADW 1-403,text,false,,17781,228,400,400,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11491,0,8210
+1622487597889,11802,HTTP Request,503,Service Unavailable,oracleADW 1-404,text,false,,17783,228,399,399,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11521,0,8219
+1622487597892,11821,HTTP Request,503,Service Unavailable,oracleADW 1-398,text,false,,17781,228,398,398,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11538,0,8248
+1622487597896,11844,HTTP Request,503,Service Unavailable,oracleADW 1-407,text,false,,17781,228,397,397,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11566,0,8282
+1622487597896,11858,HTTP Request,503,Service Unavailable,oracleADW 1-411,text,false,,17783,228,396,396,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11575,0,8275
+1622487597888,11867,HTTP Request,503,Service Unavailable,oracleADW 1-401,text,false,,17781,228,395,395,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11570,0,8254
+1622487597899,11869,HTTP Request,503,Service Unavailable,oracleADW 1-412,text,false,,17781,228,394,394,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11593,0,8308
+1622487597896,11881,HTTP Request,503,Service Unavailable,oracleADW 1-408,text,false,,17781,228,393,393,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11593,0,8300
+1622487597899,11883,HTTP Request,503,Service Unavailable,oracleADW 1-415,text,false,,17783,228,392,392,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11599,0,8302
+1622487597901,11900,HTTP Request,503,Service Unavailable,oracleADW 1-405,text,false,,17781,228,391,391,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11619,0,8338
+1622487597900,11943,HTTP Request,503,Service Unavailable,oracleADW 1-416,text,false,,17781,228,390,390,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11655,0,8362
+1622487597899,11963,HTTP Request,503,Service Unavailable,oracleADW 1-409,text,false,,17783,228,389,389,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11670,0,8358
+1622487597905,11962,HTTP Request,503,Service Unavailable,oracleADW 1-423,text,false,,17781,228,388,388,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11681,0,8395
+1622487597902,11969,HTTP Request,503,Service Unavailable,oracleADW 1-410,text,false,,17783,228,387,387,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11688,0,8381
+1622487597905,11996,HTTP Request,503,Service Unavailable,oracleADW 1-413,text,false,,17783,228,386,386,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11712,0,8418
+1622487597902,12008,HTTP Request,503,Service Unavailable,oracleADW 1-406,text,false,,17781,228,385,385,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11713,0,8409
+1622487597906,12012,HTTP Request,503,Service Unavailable,oracleADW 1-419,text,false,,17781,228,384,384,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11727,0,8435
+1622487597916,12039,HTTP Request,503,Service Unavailable,oracleADW 1-414,text,false,,17783,228,383,383,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11761,0,8463
+1622487597906,12061,HTTP Request,503,Service Unavailable,oracleADW 1-420,text,false,,17781,228,382,382,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11769,0,8473
+1622487597915,12064,HTTP Request,503,Service Unavailable,oracleADW 1-431,text,false,,17781,228,381,381,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11779,0,8477
+1622487597919,12075,HTTP Request,503,Service Unavailable,oracleADW 1-418,text,false,,17781,228,380,380,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11797,0,8514
+1622487597918,12077,HTTP Request,503,Service Unavailable,oracleADW 1-417,text,false,,17783,228,379,379,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11793,0,8494
+1622487597919,12083,HTTP Request,503,Service Unavailable,oracleADW 1-436,text,false,,17781,228,378,378,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11800,0,8509
+1622487597909,12095,HTTP Request,503,Service Unavailable,oracleADW 1-424,text,false,,17783,228,377,377,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11800,0,8493
+1622487597920,12125,HTTP Request,503,Service Unavailable,oracleADW 1-427,text,false,,17781,228,376,376,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11846,0,8562
+1622487597920,12133,HTTP Request,503,Service Unavailable,oracleADW 1-428,text,false,,17781,228,375,375,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11853,0,8567
+1622487597920,12154,HTTP Request,503,Service Unavailable,oracleADW 1-421,text,false,,17783,228,374,374,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11873,0,8587
+1622487597919,12220,HTTP Request,503,Service Unavailable,oracleADW 1-435,text,false,,17781,228,373,373,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11919,0,8603
+1622487597924,12237,HTTP Request,503,Service Unavailable,oracleADW 1-434,text,false,,17781,228,372,372,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11958,0,8673
+1622487597923,12238,HTTP Request,503,Service Unavailable,oracleADW 1-426,text,false,,17781,228,372,372,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11951,0,8647
+1622487597923,12251,HTTP Request,503,Service Unavailable,oracleADW 1-429,text,false,,17783,228,370,370,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11967,0,8655
+1622487597924,12260,HTTP Request,503,Service Unavailable,oracleADW 1-430,text,false,,17781,228,369,369,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11975,0,8673
+1622487597926,12266,HTTP Request,503,Service Unavailable,oracleADW 1-433,text,false,,17781,228,368,368,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,11988,0,8690
+1622487597921,12306,HTTP Request,503,Service Unavailable,oracleADW 1-422,text,false,,17783,228,367,367,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,12003,0,8669
+1622487597926,12309,HTTP Request,503,Service Unavailable,oracleADW 1-425,text,false,,17781,228,366,366,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,12031,0,8747
+1622487597926,12355,HTTP Request,503,Service Unavailable,oracleADW 1-432,text,false,,17783,228,365,365,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,12063,0,8748
+1622487597937,12346,HTTP Request,503,Service Unavailable,oracleADW 1-452,text,false,,17781,228,364,364,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,12066,0,8784
+1622487597930,12369,HTTP Request,503,Service Unavailable,oracleADW 1-439,text,false,,17783,228,363,363,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,12077,0,8783
+1622487597930,12391,HTTP Request,503,Service Unavailable,oracleADW 1-438,text,false,,17781,228,362,362,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,12104,0,8813
+1622487597938,12415,HTTP Request,503,Service Unavailable,oracleADW 1-456,text,false,,17781,228,361,361,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,12130,0,8830
+1622487597930,12438,HTTP Request,503,Service Unavailable,oracleADW 1-443,text,false,,17783,228,360,360,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,12141,0,8831
+1622487597939,12440,HTTP Request,503,Service Unavailable,oracleADW 1-444,text,false,,17781,228,359,359,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,12159,0,8862
+1622487597939,12466,HTTP Request,503,Service Unavailable,oracleADW 1-447,text,false,,17783,228,358,358,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,12187,0,8888
+1622487597939,12474,HTTP Request,503,Service Unavailable,oracleADW 1-440,text,false,,17781,228,357,357,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,12188,0,8887
+1622487597937,12491,HTTP Request,503,Service Unavailable,oracleADW 1-437,text,false,,17781,228,356,356,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,12194,0,8894
+1622487597940,12502,HTTP Request,503,Service Unavailable,oracleADW 1-446,text,false,,17783,228,355,355,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,12219,0,8925
+1622487597940,12527,HTTP Request,503,Service Unavailable,oracleADW 1-448,text,false,,17781,228,354,354,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,12243,0,8954
+1622487597940,12541,HTTP Request,503,Service Unavailable,oracleADW 1-451,text,false,,17783,228,353,353,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,12247,0,8948
+1622487597941,12573,HTTP Request,503,Service Unavailable,oracleADW 1-449,text,false,,17781,228,352,352,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,12285,0,8982
+1622487597943,12581,HTTP Request,503,Service Unavailable,oracleADW 1-441,text,false,,17781,228,351,351,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,12301,0,9007
+1622487597943,12597,HTTP Request,503,Service Unavailable,oracleADW 1-450,text,false,,17781,228,350,350,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,12312,0,9026
+1622487597942,12602,HTTP Request,503,Service Unavailable,oracleADW 1-445,text,false,,17783,228,349,349,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,12314,0,8997
+1622487597941,12615,HTTP Request,503,Service Unavailable,oracleADW 1-442,text,false,,17783,228,348,348,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,12317,0,9012
+1622487597944,12623,HTTP Request,503,Service Unavailable,oracleADW 1-459,text,false,,17781,228,347,347,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,12339,0,9046
+1622487597942,12628,HTTP Request,503,Service Unavailable,oracleADW 1-455,text,false,,17783,228,346,346,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,12336,0,9025
+1622487597945,12649,HTTP Request,503,Service Unavailable,oracleADW 1-454,text,false,,17781,228,345,345,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,12367,0,9057
+1622487597945,12652,HTTP Request,503,Service Unavailable,oracleADW 1-458,text,false,,17781,228,344,344,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,12370,0,9070
+1622487597945,12661,HTTP Request,503,Service Unavailable,oracleADW 1-457,text,false,,17781,228,343,343,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,12376,0,9088
+1622487597946,12673,HTTP Request,503,Service Unavailable,oracleADW 1-461,text,false,,17781,228,342,342,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,12392,0,9096
+1622487597946,12698,HTTP Request,503,Service Unavailable,oracleADW 1-460,text,false,,17781,228,341,341,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,12419,0,9115
+1622487597948,12719,HTTP Request,503,Service Unavailable,oracleADW 1-463,text,false,,17781,228,340,340,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,12436,0,9139
+1622487597950,12733,HTTP Request,503,Service Unavailable,oracleADW 1-462,text,false,,17781,228,339,339,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,12451,0,9151
+1622487597947,12750,HTTP Request,503,Service Unavailable,oracleADW 1-453,text,false,,17781,228,338,338,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,12453,0,9151
+1622487597950,12747,HTTP Request,503,Service Unavailable,oracleADW 1-466,text,false,,17781,228,338,338,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,12463,0,9166
+1622487597950,12809,HTTP Request,503,Service Unavailable,oracleADW 1-464,text,false,,17781,228,336,336,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,12514,0,9212
+1622487597951,12817,HTTP Request,503,Service Unavailable,oracleADW 1-467,text,false,,17781,228,335,335,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,12529,0,9218
+1622487597953,12821,HTTP Request,503,Service Unavailable,oracleADW 1-468,text,false,,17781,228,334,334,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,12537,0,9227
+1622487597954,12836,HTTP Request,503,Service Unavailable,oracleADW 1-469,text,false,,17781,228,333,333,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,12552,0,9254
+1622487597955,12852,HTTP Request,503,Service Unavailable,oracleADW 1-470,text,false,,17781,228,332,332,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,12567,0,9263
+1622487597950,12875,HTTP Request,503,Service Unavailable,oracleADW 1-465,text,false,,17781,228,331,331,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,12574,0,9261
+1622487597958,12868,HTTP Request,503,Service Unavailable,oracleADW 1-472,text,false,,17781,228,330,330,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,12586,0,9291
+1622487597958,12872,HTTP Request,503,Service Unavailable,oracleADW 1-474,text,false,,17781,228,329,329,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,12584,0,9294
+1622487597955,12882,HTTP Request,503,Service Unavailable,oracleADW 1-471,text,false,,17781,228,328,328,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,12596,0,9291
+1622487597961,12917,HTTP Request,503,Service Unavailable,oracleADW 1-475,text,false,,17781,228,327,327,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,12631,0,9329
+1622487597961,12944,HTTP Request,503,Service Unavailable,oracleADW 1-477,text,false,,17781,228,326,326,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,12658,0,9345
+1622487597962,12948,HTTP Request,503,Service Unavailable,oracleADW 1-476,text,false,,17781,228,325,325,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,12662,0,9351
+1622487597963,12964,HTTP Request,503,Service Unavailable,oracleADW 1-480,text,false,,17781,228,324,324,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,12676,0,9386
+1622487597960,12975,HTTP Request,503,Service Unavailable,oracleADW 1-473,text,false,,17781,228,323,323,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,12674,0,9366
+1622487597962,12982,HTTP Request,503,Service Unavailable,oracleADW 1-478,text,false,,17781,228,322,322,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,12691,0,9385
+1622487597963,13002,HTTP Request,503,Service Unavailable,oracleADW 1-479,text,false,,17781,228,321,321,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,12712,0,9410
+1622487597965,13006,HTTP Request,503,Service Unavailable,oracleADW 1-481,text,false,,17781,228,320,320,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,12725,0,9403
+1622487597967,13016,HTTP Request,503,Service Unavailable,oracleADW 1-483,text,false,,17781,228,319,319,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,12726,0,9428
+1622487597967,13040,HTTP Request,503,Service Unavailable,oracleADW 1-482,text,false,,17781,228,318,318,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,12747,0,9444
+1622487597972,13035,HTTP Request,503,Service Unavailable,oracleADW 1-488,text,false,,17781,228,318,318,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,12751,0,9466
+1622487597972,13046,HTTP Request,503,Service Unavailable,oracleADW 1-485,text,false,,17779,228,316,316,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,12765,0,9475
+1622487597970,13063,HTTP Request,503,Service Unavailable,oracleADW 1-486,text,false,,17779,228,315,315,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,12777,0,9475
+1622487597975,13095,HTTP Request,503,Service Unavailable,oracleADW 1-490,text,false,,17779,228,314,314,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,12811,0,9525
+1622487597973,13100,HTTP Request,503,Service Unavailable,oracleADW 1-489,text,false,,17781,228,313,313,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,12814,0,9523
+1622487597969,13107,HTTP Request,503,Service Unavailable,oracleADW 1-484,text,false,,17781,228,312,312,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,12804,0,9500
+1622487597972,13108,HTTP Request,503,Service Unavailable,oracleADW 1-487,text,false,,17779,228,311,311,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,12817,0,9523
+1622487597975,13109,HTTP Request,503,Service Unavailable,oracleADW 1-491,text,false,,17779,228,310,310,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,12829,0,9534
+1622487597978,13146,HTTP Request,503,Service Unavailable,oracleADW 1-493,text,false,,17779,228,309,309,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,12861,0,9573
+1622487597979,13158,HTTP Request,503,Service Unavailable,oracleADW 1-494,text,false,,17779,228,308,308,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,12874,0,9586
+1622487597979,13166,HTTP Request,503,Service Unavailable,oracleADW 1-495,text,false,,17779,228,307,307,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,12883,0,9596
+1622487597981,13182,HTTP Request,503,Service Unavailable,oracleADW 1-497,text,false,,17779,228,306,306,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,12899,0,9610
+1622487597976,13188,HTTP Request,503,Service Unavailable,oracleADW 1-492,text,false,,17781,228,305,305,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,12894,0,9592
+1622487597983,13219,HTTP Request,503,Service Unavailable,oracleADW 1-499,text,false,,17781,228,304,304,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,12935,0,9646
+1622487597981,13264,HTTP Request,503,Service Unavailable,oracleADW 1-496,text,false,,17779,228,303,303,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,12970,0,9659
+1622487597983,13267,HTTP Request,503,Service Unavailable,oracleADW 1-498,text,false,,17781,228,302,302,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,12978,0,9682
+1622487597985,13271,HTTP Request,503,Service Unavailable,oracleADW 1-500,text,false,,17779,228,301,301,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,12983,0,9688
+1622487597736,19201,HTTP Request,200,OK,oracleADW 1-333,text,true,,15059,228,300,300,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,18916,0,4023
+1622487597755,19331,HTTP Request,200,OK,oracleADW 1-218,text,true,,15059,228,299,299,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,19053,0,4017
+1622487597713,22458,HTTP Request,200,OK,oracleADW 1-307,text,true,,15059,228,298,298,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,22185,0,4044
+1622487597741,25557,HTTP Request,200,OK,oracleADW 1-239,text,true,,15059,228,297,297,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,25275,0,4011
+1622487597752,28222,HTTP Request,200,OK,oracleADW 1-341,text,true,,15059,228,296,296,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,27937,0,4016
+1622487597761,28812,HTTP Request,200,OK,oracleADW 1-267,text,true,,15059,228,295,295,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,28536,0,4007
+1622487597790,29297,HTTP Request,200,OK,oracleADW 1-362,text,true,,15059,228,294,294,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,29018,0,3996
+1622487597757,30903,HTTP Request,200,OK,oracleADW 1-120,text,true,,15059,228,293,293,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,30627,0,4034
+1622487597756,31206,HTTP Request,200,OK,oracleADW 1-240,text,true,,15059,228,292,292,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,30925,0,3985
+1622487597702,32291,HTTP Request,200,OK,oracleADW 1-302,text,true,,15059,228,291,291,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,32012,0,4083
+1622487597747,32330,HTTP Request,200,OK,oracleADW 1-339,text,true,,15059,228,290,290,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,32052,0,3988
+1622487597740,35232,HTTP Request,200,OK,oracleADW 1-6,text,true,,15059,228,289,289,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,34955,0,4018
+1622487597741,35328,HTTP Request,200,OK,oracleADW 1-334,text,true,,15059,228,288,288,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,35055,0,3993
+1622487597760,35329,HTTP Request,200,OK,oracleADW 1-3,text,true,,15059,228,287,287,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,35051,0,3998
+1622487597717,35679,HTTP Request,200,OK,oracleADW 1-180,text,true,,15059,228,286,286,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,35401,0,4075
+1622487597826,35671,HTTP Request,200,OK,oracleADW 1-380,text,true,,15059,228,285,285,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,35391,0,3959
+1622487597718,36067,HTTP Request,200,OK,oracleADW 1-268,text,true,,15059,228,284,284,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,35789,0,4050
+1622487597717,37124,HTTP Request,200,OK,oracleADW 1-166,text,true,,15059,228,283,283,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,36850,0,4036
+1622487597755,37179,HTTP Request,200,OK,oracleADW 1-20,text,true,,15059,228,282,282,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,36896,0,3997
+1622487597712,37737,HTTP Request,200,OK,oracleADW 1-274,text,true,,15059,228,281,281,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,37455,0,4048
+1622487597761,38226,HTTP Request,200,OK,oracleADW 1-57,text,true,,15059,228,280,280,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,37944,0,3992
+1622487597762,38237,HTTP Request,200,OK,oracleADW 1-128,text,true,,15059,228,279,279,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,37947,0,4006
+1622487597725,38344,HTTP Request,200,OK,oracleADW 1-324,text,true,,15059,228,278,278,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,38069,0,4048
+1622487597756,38649,HTTP Request,200,OK,oracleADW 1-28,text,true,,15059,228,277,277,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,38371,0,4060
+1622487597748,39052,HTTP Request,200,OK,oracleADW 1-23,text,true,,15059,228,276,276,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,38772,0,4006
+1622487597727,39104,HTTP Request,200,OK,oracleADW 1-101,text,true,,15059,228,275,275,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,38823,0,4064
+1622487597778,39418,HTTP Request,200,OK,oracleADW 1-32,text,true,,15059,228,274,274,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,39144,0,3974
+1622487597742,39883,HTTP Request,200,OK,oracleADW 1-69,text,true,,15059,228,273,273,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,39604,0,4048
+1622487597763,39959,HTTP Request,200,OK,oracleADW 1-91,text,true,,15059,228,272,272,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,39682,0,3994
+1622487597782,40053,HTTP Request,200,OK,oracleADW 1-357,text,true,,15059,228,271,271,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,39775,0,3975
+1622487597745,40274,HTTP Request,200,OK,oracleADW 1-337,text,true,,15059,228,270,270,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,39998,0,4031
+1622487597777,40473,HTTP Request,200,OK,oracleADW 1-190,text,true,,15059,228,269,269,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,40193,0,4013
+1622487597746,40505,HTTP Request,200,OK,oracleADW 1-76,text,true,,15059,228,268,268,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,40227,0,4047
+1622487597776,40482,HTTP Request,200,OK,oracleADW 1-74,text,true,,15059,228,267,267,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,40192,0,3986
+1622487597815,40525,HTTP Request,200,OK,oracleADW 1-364,text,true,,15059,228,266,266,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,40247,0,3958
+1622487597748,41001,HTTP Request,200,OK,oracleADW 1-105,text,true,,15059,228,265,265,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,40723,0,3998
+1622487597768,41091,HTTP Request,200,OK,oracleADW 1-250,text,true,,15059,228,264,264,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,40813,0,4008
+1622487597700,41170,HTTP Request,200,OK,oracleADW 1-278,text,true,,15059,228,263,263,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,40886,0,4061
+1622487597746,41213,HTTP Request,200,OK,oracleADW 1-233,text,true,,15059,228,262,262,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,40937,0,3988
+1622487597776,41206,HTTP Request,200,OK,oracleADW 1-135,text,true,,15059,228,261,261,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,40914,0,3995
+1622487597752,41429,HTTP Request,200,OK,oracleADW 1-343,text,true,,15059,228,260,260,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,41133,0,4064
+1622487597760,41492,HTTP Request,200,OK,oracleADW 1-355,text,true,,15059,228,259,259,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,41218,0,3994
+1622487597761,41508,HTTP Request,200,OK,oracleADW 1-346,text,true,,15059,228,258,258,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,41230,0,3981
+1622487597751,41617,HTTP Request,200,OK,oracleADW 1-217,text,true,,15059,228,257,257,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,41344,0,4009
+1622487597760,41628,HTTP Request,200,OK,oracleADW 1-348,text,true,,15059,228,256,256,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,41341,0,4008
+1622487597761,41709,HTTP Request,200,OK,oracleADW 1-189,text,true,,15059,228,255,255,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,41431,0,3991
+1622487597744,41853,HTTP Request,200,OK,oracleADW 1-271,text,true,,15059,228,254,254,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,41572,0,4667
+1622487597701,41992,HTTP Request,200,OK,oracleADW 1-298,text,true,,15059,228,253,253,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,41705,0,4070
+1622487597749,42355,HTTP Request,200,OK,oracleADW 1-158,text,true,,15059,228,252,252,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,42075,0,3998
+1622487597746,42367,HTTP Request,200,OK,oracleADW 1-191,text,true,,15059,228,251,251,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,42088,0,4048
+1622487597715,42607,HTTP Request,200,OK,oracleADW 1-86,text,true,,15059,228,250,250,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,42321,0,4046
+1622487597752,42574,HTTP Request,200,OK,oracleADW 1-169,text,true,,15059,228,249,249,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,42283,0,4054
+1622487597737,42665,HTTP Request,200,OK,oracleADW 1-234,text,true,,15059,228,248,248,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,42382,0,4026
+1622487597701,42811,HTTP Request,200,OK,oracleADW 1-247,text,true,,15059,228,247,247,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,42521,0,4068
+1622487597715,42891,HTTP Request,200,OK,oracleADW 1-318,text,true,,15059,228,246,246,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,42612,0,4062
+1622487597777,43241,HTTP Request,200,OK,oracleADW 1-124,text,true,,15059,228,245,245,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,42964,0,4011
+1622487597703,43422,HTTP Request,200,OK,oracleADW 1-301,text,true,,15059,228,244,244,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,43141,0,4112
+1622487597725,43516,HTTP Request,200,OK,oracleADW 1-326,text,true,,15059,228,243,243,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,43228,0,4686
+1622487597777,43484,HTTP Request,200,OK,oracleADW 1-236,text,true,,15059,228,242,242,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,43203,0,3976
+1622487597761,43565,HTTP Request,200,OK,oracleADW 1-270,text,true,,15059,228,241,241,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,43287,0,3991
+1622487597762,43566,HTTP Request,200,OK,oracleADW 1-261,text,true,,15059,228,240,240,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,43288,0,3998
+1622487597730,43699,HTTP Request,200,OK,oracleADW 1-139,text,true,,15059,228,239,239,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,43422,0,4047
+1622487597710,43814,HTTP Request,200,OK,oracleADW 1-129,text,true,,15059,228,238,238,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,43542,0,4046
+1622487597698,44048,HTTP Request,200,OK,oracleADW 1-54,text,true,,15059,228,237,237,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,43772,0,4043
+1622487597792,44172,HTTP Request,200,OK,oracleADW 1-361,text,true,,15059,228,236,236,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,43885,0,3966
+1622487597761,44301,HTTP Request,200,OK,oracleADW 1-352,text,true,,15059,228,235,235,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,44016,0,4025
+1622487597705,44364,HTTP Request,200,OK,oracleADW 1-254,text,true,,15059,228,234,234,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,44074,0,5233
+1622487597729,44539,HTTP Request,200,OK,oracleADW 1-153,text,true,,15059,228,233,233,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,44257,0,4033
+1622487597756,44514,HTTP Request,200,OK,oracleADW 1-40,text,true,,15059,228,232,232,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,44228,0,4037
+1622487597763,44692,HTTP Request,200,OK,oracleADW 1-242,text,true,,15059,228,231,231,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,44415,0,4029
+1622487597755,44707,HTTP Request,200,OK,oracleADW 1-272,text,true,,15059,228,230,230,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,44430,0,4036
+1622487597730,44739,HTTP Request,200,OK,oracleADW 1-126,text,true,,15059,228,229,229,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,44465,0,4005
+1622487597738,44828,HTTP Request,200,OK,oracleADW 1-66,text,true,,15059,228,228,228,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,44539,0,4034
+1622487597705,44888,HTTP Request,200,OK,oracleADW 1-50,text,true,,15059,228,227,227,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,44592,0,4889
+1622487597760,44913,HTTP Request,200,OK,oracleADW 1-179,text,true,,15059,228,226,226,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,44635,0,3985
+1622487597777,45000,HTTP Request,200,OK,oracleADW 1-111,text,true,,15059,228,225,225,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,44718,0,3970
+1622487597762,45107,HTTP Request,200,OK,oracleADW 1-170,text,true,,15059,228,224,224,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,44830,0,3983
+1622487597761,45208,HTTP Request,200,OK,oracleADW 1-342,text,true,,15059,228,223,223,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,44936,0,3995
+1622487597763,45241,HTTP Request,200,OK,oracleADW 1-121,text,true,,15059,228,222,222,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,44954,0,4042
+1622487597737,45456,HTTP Request,200,OK,oracleADW 1-112,text,true,,15059,228,221,221,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,45180,0,4035
+1622487597848,45351,HTTP Request,200,OK,oracleADW 1-372,text,true,,15059,228,220,220,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,45072,0,6103
+1622487597761,45445,HTTP Request,200,OK,oracleADW 1-350,text,true,,15059,228,219,219,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,45162,0,5636
+1622487597742,45567,HTTP Request,200,OK,oracleADW 1-46,text,true,,15059,228,218,218,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,45272,0,4593
+1622487597777,45628,HTTP Request,200,OK,oracleADW 1-248,text,true,,15059,228,217,217,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,45341,0,4026
+1622487597704,45787,HTTP Request,200,OK,oracleADW 1-306,text,true,,15059,228,216,216,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,45509,0,4692
+1622487597749,45947,HTTP Request,200,OK,oracleADW 1-276,text,true,,15059,228,215,215,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,45673,0,4036
+1622487597704,46008,HTTP Request,200,OK,oracleADW 1-310,text,true,,15059,228,214,214,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,45729,0,4746
+1622487597760,45968,HTTP Request,200,OK,oracleADW 1-354,text,true,,15059,228,213,213,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,45683,0,4008
+1622487597778,46019,HTTP Request,200,OK,oracleADW 1-64,text,true,,15059,228,212,212,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,45743,0,3998
+1622487597731,46194,HTTP Request,200,OK,oracleADW 1-335,text,true,,15059,228,211,211,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,45910,0,4056
+1622487597740,46277,HTTP Request,200,OK,oracleADW 1-22,text,true,,15059,228,210,210,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,45999,0,4020
+1622487597712,46324,HTTP Request,200,OK,oracleADW 1-183,text,true,,15059,228,209,209,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,46035,0,4060
+1622487597832,46290,HTTP Request,200,OK,oracleADW 1-381,text,true,,15059,228,208,208,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,46009,0,3939
+1622487597711,46620,HTTP Request,200,OK,oracleADW 1-122,text,true,,15059,228,207,207,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,46334,0,4090
+1622487597703,46818,HTTP Request,200,OK,oracleADW 1-280,text,true,,15059,228,206,206,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,46533,0,4085
+1622487597751,46772,HTTP Request,200,OK,oracleADW 1-221,text,true,,15059,228,205,205,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,46489,0,4012
+1622487597745,46793,HTTP Request,200,OK,oracleADW 1-284,text,true,,15059,228,204,204,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,46509,0,4522
+1622487597729,46897,HTTP Request,200,OK,oracleADW 1-331,text,true,,15059,228,203,203,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,46614,0,4027
+1622487597737,46993,HTTP Request,200,OK,oracleADW 1-212,text,true,,15059,228,202,202,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,46717,0,4015
+1622487597705,47035,HTTP Request,200,OK,oracleADW 1-224,text,true,,15059,228,201,201,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,46755,0,4842
+1622487597757,46991,HTTP Request,200,OK,oracleADW 1-68,text,true,,15059,228,200,200,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,46712,0,4745
+1622487597753,47182,HTTP Request,200,OK,oracleADW 1-210,text,true,,15059,228,199,199,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,46897,0,4015
+1622487597776,47196,HTTP Request,200,OK,oracleADW 1-133,text,true,,15059,228,198,198,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,46911,0,4619
+1622487597776,47295,HTTP Request,200,OK,oracleADW 1-199,text,true,,15059,228,197,197,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,47013,0,4014
+1622487597742,47402,HTTP Request,200,OK,oracleADW 1-204,text,true,,15059,228,196,196,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,47119,0,4014
+1622487597710,47436,HTTP Request,200,OK,oracleADW 1-96,text,true,,15059,228,195,195,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,47157,0,4062
+1622487597762,47588,HTTP Request,200,OK,oracleADW 1-154,text,true,,15059,228,194,194,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,47308,0,3991
+1622487597709,47741,HTTP Request,200,OK,oracleADW 1-313,text,true,,15059,228,193,193,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,47468,0,4025
+1622487597763,47708,HTTP Request,200,OK,oracleADW 1-265,text,true,,15059,228,192,192,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,47444,0,4054
+1622487597717,47842,HTTP Request,200,OK,oracleADW 1-1,text,true,,15059,228,191,191,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,47563,0,4068
+1622487597708,47875,HTTP Request,200,OK,oracleADW 1-308,text,true,,15059,228,190,190,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,47589,0,4049
+1622487597761,48005,HTTP Request,200,OK,oracleADW 1-110,text,true,,15059,228,189,189,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,47722,0,4030
+1622487597778,48070,HTTP Request,200,OK,oracleADW 1-171,text,true,,15059,228,188,188,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,47785,0,3995
+1622487597741,48133,HTTP Request,200,OK,oracleADW 1-75,text,true,,15059,228,187,187,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,47850,0,4021
+1622487597776,48098,HTTP Request,200,OK,oracleADW 1-168,text,true,,15059,228,187,187,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,47811,0,3995
+1622487597745,48217,HTTP Request,200,OK,oracleADW 1-238,text,true,,15059,228,185,185,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,47939,0,4941
+1622487597703,48388,HTTP Request,200,OK,oracleADW 1-260,text,true,,15059,228,184,184,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,48101,0,4091
+1622487597761,48428,HTTP Request,200,OK,oracleADW 1-214,text,true,,15059,228,183,183,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,48149,0,3996
+1622487597710,48490,HTTP Request,200,OK,oracleADW 1-109,text,true,,15059,228,182,182,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,48200,0,4083
+1622487597765,48436,HTTP Request,200,OK,oracleADW 1-119,text,true,,15059,228,181,181,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,48145,0,6356
+1622487597728,48552,HTTP Request,200,OK,oracleADW 1-78,text,true,,15059,228,180,180,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,48272,0,4062
+1622487597762,48628,HTTP Request,200,OK,oracleADW 1-262,text,true,,15059,228,179,179,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,48347,0,3992
+1622487597763,48729,HTTP Request,200,OK,oracleADW 1-81,text,true,,15059,228,178,178,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,48443,0,4040
+1622487597776,48821,HTTP Request,200,OK,oracleADW 1-130,text,true,,15059,228,177,177,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,48543,0,4817
+1622487597821,48905,HTTP Request,200,OK,oracleADW 1-379,text,true,,15059,228,176,176,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,48615,0,4001
+1622487597760,48966,HTTP Request,200,OK,oracleADW 1-349,text,true,,15059,228,176,176,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,48666,0,4062
+1622487597716,49092,HTTP Request,200,OK,oracleADW 1-319,text,true,,15059,228,174,174,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,48813,0,4070
+1622487597775,49040,HTTP Request,200,OK,oracleADW 1-359,text,true,,15059,228,173,173,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,48754,0,4985
+1622487597723,49393,HTTP Request,200,OK,oracleADW 1-328,text,true,,15059,228,172,172,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,49109,0,5439
+1622487597746,49375,HTTP Request,200,OK,oracleADW 1-340,text,true,,15059,228,171,171,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,49088,0,4061
+1622487597757,49379,HTTP Request,200,OK,oracleADW 1-246,text,true,,15059,228,170,170,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,49085,0,5695
+1622487597760,49445,HTTP Request,200,OK,oracleADW 1-141,text,true,,15059,228,169,169,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,49165,0,4033
+1622487597741,49521,HTTP Request,200,OK,oracleADW 1-172,text,true,,15059,228,168,168,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,49219,0,4048
+1622487597721,49681,HTTP Request,200,OK,oracleADW 1-79,text,true,,15059,228,167,167,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,49393,0,4687
+1622487597742,49660,HTTP Request,200,OK,oracleADW 1-65,text,true,,15059,228,167,167,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,49371,0,4034
+1622487597754,49947,HTTP Request,200,OK,oracleADW 1-188,text,true,,15059,228,165,165,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,49663,0,5799
+1622487597775,49946,HTTP Request,200,OK,oracleADW 1-107,text,true,,15059,228,164,164,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,49646,0,6080
+1622487597764,50059,HTTP Request,200,OK,oracleADW 1-182,text,true,,15059,228,163,163,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,49778,0,5376
+1622487597763,50159,HTTP Request,200,OK,oracleADW 1-37,text,true,,15059,228,162,162,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,49875,0,4039
+1622487597740,50187,HTTP Request,200,OK,oracleADW 1-108,text,true,,15059,228,161,161,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,49888,0,4068
+1622487597724,50302,HTTP Request,200,OK,oracleADW 1-327,text,true,,15059,228,160,160,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,50017,0,5296
+1622487597744,50705,HTTP Request,200,OK,oracleADW 1-44,text,true,,15059,228,159,159,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,50407,0,5487
+1622487597717,50735,HTTP Request,200,OK,oracleADW 1-184,text,true,,15059,228,158,158,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,50445,0,4074
+1622487597822,50731,HTTP Request,200,OK,oracleADW 1-375,text,true,,15059,228,157,157,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,50445,0,3988
+1622487597722,50910,HTTP Request,200,OK,oracleADW 1-330,text,true,,15059,228,156,156,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,50632,0,4749
+1622487597776,50873,HTTP Request,200,OK,oracleADW 1-256,text,true,,15059,228,155,155,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,50596,0,4698
+1622487597752,50972,HTTP Request,200,OK,oracleADW 1-55,text,true,,15059,228,154,154,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,50696,0,4007
+1622487597728,51220,HTTP Request,200,OK,oracleADW 1-175,text,true,,15059,228,153,153,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,50936,0,4170
+1622487597705,51250,HTTP Request,200,OK,oracleADW 1-253,text,true,,15059,228,152,152,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,50954,0,5514
+1622487597775,51264,HTTP Request,200,OK,oracleADW 1-178,text,true,,15059,228,151,151,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,50988,0,5486
+1622487597759,51395,HTTP Request,200,OK,oracleADW 1-208,text,true,,15059,228,150,150,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,51113,0,4885
+1622487597709,51553,HTTP Request,200,OK,oracleADW 1-312,text,true,,15059,228,149,149,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,51262,0,4095
+1622487597766,51679,HTTP Request,200,OK,oracleADW 1-187,text,true,,15059,228,148,148,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,51399,0,6418
+1622487597711,51741,HTTP Request,200,OK,oracleADW 1-89,text,true,,15059,228,147,147,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,51456,0,4105
+1622487597762,51798,HTTP Request,200,OK,oracleADW 1-31,text,true,,15059,228,146,146,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,51517,0,4026
+1622487597730,51928,HTTP Request,200,OK,oracleADW 1-36,text,true,,15059,228,145,145,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,51651,0,4064
+1622487597699,52267,HTTP Request,200,OK,oracleADW 1-293,text,true,,15059,228,144,144,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,51989,0,5756
+1622487597744,52247,HTTP Request,200,OK,oracleADW 1-338,text,true,,15059,228,143,143,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,51960,0,4057
+1622487597776,52298,HTTP Request,200,OK,oracleADW 1-38,text,true,,15059,228,142,142,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,52016,0,4010
+1622487597715,52477,HTTP Request,200,OK,oracleADW 1-316,text,true,,15059,228,141,141,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,52187,0,4102
+1622487597775,52418,HTTP Request,200,OK,oracleADW 1-193,text,true,,15059,228,141,141,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,52128,0,5504
+1622487597754,52524,HTTP Request,200,OK,oracleADW 1-84,text,true,,15059,228,139,139,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,52236,0,6043
+1622487597707,52765,HTTP Request,200,OK,oracleADW 1-150,text,true,,15059,228,138,138,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,52487,0,5008
+1622487597733,52767,HTTP Request,200,OK,oracleADW 1-336,text,true,,15059,228,137,137,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,52481,0,4054
+1622487597738,52762,HTTP Request,200,OK,oracleADW 1-72,text,true,,15059,228,137,137,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,52472,0,4084
+1622487597703,52885,HTTP Request,200,OK,oracleADW 1-194,text,true,,15059,228,135,135,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,52610,0,4320
+1622487597823,52880,HTTP Request,200,OK,oracleADW 1-376,text,true,,15059,228,134,134,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,52596,0,3967
+1622487597705,53098,HTTP Request,200,OK,oracleADW 1-83,text,true,,15059,228,133,133,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,52816,0,5061
+1622487597727,53089,HTTP Request,200,OK,oracleADW 1-332,text,true,,15059,228,132,132,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,52796,0,4605
+1622487597845,53151,HTTP Request,200,OK,oracleADW 1-377,text,true,,15059,228,131,131,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,52869,0,6249
+1622487597776,53334,HTTP Request,200,OK,oracleADW 1-132,text,true,,15059,228,130,130,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,53056,0,4356
+1622487597737,53394,HTTP Request,200,OK,oracleADW 1-13,text,true,,15059,228,129,129,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,53097,0,4055
+1622487597751,53463,HTTP Request,200,OK,oracleADW 1-200,text,true,,15059,228,128,128,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,53181,0,4053
+1622487597777,53532,HTTP Request,200,OK,oracleADW 1-123,text,true,,15059,228,127,127,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,53242,0,3995
+1622487597743,53657,HTTP Request,200,OK,oracleADW 1-288,text,true,,15059,228,126,126,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,53383,0,4112
+1622487597749,53672,HTTP Request,200,OK,oracleADW 1-344,text,true,,15059,228,125,125,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,53390,0,5107
+1622487597763,53753,HTTP Request,200,OK,oracleADW 1-156,text,true,,15059,228,124,124,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,53476,0,4079
+1622487597745,53775,HTTP Request,200,OK,oracleADW 1-196,text,true,,15059,228,123,123,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,53496,0,5209
+1622487597775,53844,HTTP Request,200,OK,oracleADW 1-143,text,true,,15059,228,122,122,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,53572,0,5703
+1622487597810,53937,HTTP Request,200,OK,oracleADW 1-367,text,true,,15059,228,121,121,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,53641,0,5554
+1622487597724,54103,HTTP Request,200,OK,oracleADW 1-325,text,true,,15059,228,120,120,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,53830,0,4784
+1622487597718,54122,HTTP Request,200,OK,oracleADW 1-249,text,true,,15059,228,119,119,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,53832,0,4630
+1622487597773,54157,HTTP Request,200,OK,oracleADW 1-125,text,true,,15059,228,118,118,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,53880,0,6274
+1622487597773,54283,HTTP Request,200,OK,oracleADW 1-195,text,true,,15059,228,117,117,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,54004,0,6629
+1622487597776,54358,HTTP Request,200,OK,oracleADW 1-149,text,true,,15059,228,116,116,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,54083,0,5029
+1622487597728,54413,HTTP Request,200,OK,oracleADW 1-98,text,true,,15059,228,115,115,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,54133,0,4074
+1622487597711,54534,HTTP Request,200,OK,oracleADW 1-82,text,true,,15059,228,114,114,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,54244,0,4082
+1622487597706,54543,HTTP Request,200,OK,oracleADW 1-309,text,true,,15059,228,113,113,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,54258,0,5402
+1622487597765,54593,HTTP Request,200,OK,oracleADW 1-90,text,true,,15059,228,112,112,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,54307,0,5721
+1622487597713,54656,HTTP Request,200,OK,oracleADW 1-314,text,true,,15059,228,111,111,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,54362,0,4095
+1622487597804,54748,HTTP Request,200,OK,oracleADW 1-374,text,true,,15059,228,110,110,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,54469,0,4862
+1622487597754,54807,HTTP Request,200,OK,oracleADW 1-228,text,true,,15059,228,109,109,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,54520,0,6732
+1622487597765,54890,HTTP Request,200,OK,oracleADW 1-39,text,true,,15059,228,108,108,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,54613,0,5933
+1622487597775,54887,HTTP Request,200,OK,oracleADW 1-117,text,true,,15059,228,107,107,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,54605,0,5987
+1622487597779,54995,HTTP Request,200,OK,oracleADW 1-358,text,true,,15059,228,106,106,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,54710,0,5202
+1622487597751,55296,HTTP Request,200,OK,oracleADW 1-163,text,true,,15059,228,105,105,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,55016,0,4040
+1622487597742,55314,HTTP Request,200,OK,oracleADW 1-283,text,true,,15059,228,104,104,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,55034,0,4074
+1622487597744,55317,HTTP Request,200,OK,oracleADW 1-146,text,true,,15059,228,103,103,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,55038,0,5619
+1622487597756,55445,HTTP Request,200,OK,oracleADW 1-88,text,true,,15059,228,102,102,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,55169,0,4037
+1622487597730,55483,HTTP Request,200,OK,oracleADW 1-237,text,true,,15059,228,101,101,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,55201,0,4064
+1622487597723,55542,HTTP Request,200,OK,oracleADW 1-321,text,true,,15059,228,100,100,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,55241,0,4794
+1622487597764,55533,HTTP Request,200,OK,oracleADW 1-232,text,true,,15059,228,99,99,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,55252,0,5873
+1622487597766,55657,HTTP Request,200,OK,oracleADW 1-134,text,true,,15059,228,98,98,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,55373,0,6771
+1622487597772,55689,HTTP Request,200,OK,oracleADW 1-197,text,true,,15059,228,97,97,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,55411,0,6817
+1622487597712,55764,HTTP Request,200,OK,oracleADW 1-94,text,true,,15059,228,96,96,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,55486,0,4077
+1622487597759,55738,HTTP Request,200,OK,oracleADW 1-106,text,true,,15059,228,95,95,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,55441,0,5445
+1622487597701,56034,HTTP Request,200,OK,oracleADW 1-275,text,true,,15059,228,94,94,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,55741,0,4122
+1622487597764,56038,HTTP Request,200,OK,oracleADW 1-243,text,true,,15059,228,93,93,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,55757,0,5659
+1622487597759,56045,HTTP Request,200,OK,oracleADW 1-58,text,true,,15059,228,92,92,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,55764,0,5077
+1622487597721,56104,HTTP Request,200,OK,oracleADW 1-34,text,true,,15059,228,91,91,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,55827,0,4309
+1622487597755,56199,HTTP Request,200,OK,oracleADW 1-92,text,true,,15059,228,90,90,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,55912,0,6396
+1622487597749,56412,HTTP Request,200,OK,oracleADW 1-279,text,true,,15059,228,89,89,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,56128,0,4054
+1622487597745,56549,HTTP Request,200,OK,oracleADW 1-162,text,true,,15059,228,88,88,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,56268,0,4970
+1622487597754,56559,HTTP Request,200,OK,oracleADW 1-222,text,true,,15059,228,87,87,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,56274,0,5585
+1622487597762,56601,HTTP Request,200,OK,oracleADW 1-351,text,true,,15059,228,86,86,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,56324,0,4040
+1622487597750,56746,HTTP Request,200,OK,oracleADW 1-8,text,true,,15059,228,85,85,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,56448,0,4053
+1622487597786,56798,HTTP Request,200,OK,oracleADW 1-296,text,true,,15059,228,84,84,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,56514,0,5912
+1622487597765,56820,HTTP Request,200,OK,oracleADW 1-220,text,true,,15059,228,83,83,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,56542,0,5891
+1622487597765,56822,HTTP Request,200,OK,oracleADW 1-104,text,true,,15059,228,82,82,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,56545,0,6169
+1622487597699,56900,HTTP Request,200,OK,oracleADW 1-303,text,true,,15059,228,81,81,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,56609,0,5450
+1622487597755,56845,HTTP Request,200,OK,oracleADW 1-219,text,true,,15059,228,80,80,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,56557,0,5842
+1622487597773,56857,HTTP Request,200,OK,oracleADW 1-201,text,true,,15059,228,79,79,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,56580,0,6240
+1622487597766,56958,HTTP Request,200,OK,oracleADW 1-229,text,true,,15059,228,78,78,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,56680,0,6592
+1622487597716,57019,HTTP Request,200,OK,oracleADW 1-9,text,true,,15059,228,77,77,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,56738,0,4085
+1622487597810,57027,HTTP Request,200,OK,oracleADW 1-371,text,true,,15059,228,76,76,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,56747,0,5540
+1622487597766,57134,HTTP Request,200,OK,oracleADW 1-258,text,true,,15059,228,75,75,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,56845,0,6571
+1622487597765,57159,HTTP Request,200,OK,oracleADW 1-51,text,true,,15059,228,74,74,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,56877,0,6142
+1622487597772,57211,HTTP Request,200,OK,oracleADW 1-29,text,true,,15059,228,73,73,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,56930,0,6635
+1622487597753,57271,HTTP Request,200,OK,oracleADW 1-347,text,true,,15059,228,72,72,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,56993,0,6244
+1622487597718,57418,HTTP Request,200,OK,oracleADW 1-53,text,true,,15059,228,71,71,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,57129,0,5092
+1622487597699,57507,HTTP Request,200,OK,oracleADW 1-80,text,true,,15059,228,70,70,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,57217,0,5898
+1622487597765,57531,HTTP Request,200,OK,oracleADW 1-15,text,true,,15059,228,69,69,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,57247,0,6001
+1622487597775,57576,HTTP Request,200,OK,oracleADW 1-115,text,true,,15059,228,68,68,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,57297,0,5743
+1622487597764,57590,HTTP Request,200,OK,oracleADW 1-73,text,true,,15059,228,67,67,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,57311,0,5283
+1622487597763,57693,HTTP Request,200,OK,oracleADW 1-152,text,true,,15059,228,66,66,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,57406,0,4026
+1622487597773,57689,HTTP Request,200,OK,oracleADW 1-255,text,true,,15059,228,65,65,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,57403,0,6361
+1622487597773,57749,HTTP Request,200,OK,oracleADW 1-26,text,true,,15059,228,64,64,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,57460,0,6590
+1622487597758,57838,HTTP Request,200,OK,oracleADW 1-43,text,true,,15059,228,63,63,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,57563,0,6336
+1622487597774,57833,HTTP Request,200,OK,oracleADW 1-198,text,true,,15059,228,62,62,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,57552,0,6204
+1622487597772,57968,HTTP Request,200,OK,oracleADW 1-59,text,true,,15059,228,61,61,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,57673,0,6735
+1622487597764,58046,HTTP Request,200,OK,oracleADW 1-136,text,true,,15059,228,60,60,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,57765,0,5041
+1622487597754,58193,HTTP Request,200,OK,oracleADW 1-203,text,true,,15059,228,59,59,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,57904,0,6497
+1622487597773,58193,HTTP Request,200,OK,oracleADW 1-25,text,true,,15059,228,58,58,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,57919,0,6492
+1622487597714,58350,HTTP Request,200,OK,oracleADW 1-317,text,true,,15059,228,57,57,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,58047,0,4091
+1622487597710,58391,HTTP Request,200,OK,oracleADW 1-2,text,true,,15059,228,56,56,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,58111,0,4083
+1622487597773,58424,HTTP Request,200,OK,oracleADW 1-174,text,true,,15059,228,55,55,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,58140,0,6611
+1622487597762,58453,HTTP Request,200,OK,oracleADW 1-266,text,true,,15059,228,54,54,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,58149,0,4056
+1622487597699,58588,HTTP Request,200,OK,oracleADW 1-35,text,true,,15059,228,53,53,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,58314,0,5928
+1622487597773,58604,HTTP Request,200,OK,oracleADW 1-100,text,true,,15059,228,52,52,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,58327,0,6374
+1622487597705,58711,HTTP Request,200,OK,oracleADW 1-71,text,true,,15059,228,51,51,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,58420,0,5366
+1622487597809,58629,HTTP Request,200,OK,oracleADW 1-368,text,true,,15059,228,50,50,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,58341,0,5447
+1622487597717,58790,HTTP Request,200,OK,oracleADW 1-213,text,true,,15059,228,49,49,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,58501,0,4072
+1622487597775,58826,HTTP Request,200,OK,oracleADW 1-252,text,true,,15059,228,48,48,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,58548,0,5822
+1622487597699,58910,HTTP Request,200,OK,oracleADW 1-144,text,true,,15059,228,47,47,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,58620,0,5535
+1622487597723,58960,HTTP Request,200,OK,oracleADW 1-322,text,true,,15059,228,46,46,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,58681,0,5148
+1622487597723,58966,HTTP Request,200,OK,oracleADW 1-320,text,true,,15059,228,45,45,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,58690,0,5490
+1622487597766,59032,HTTP Request,200,OK,oracleADW 1-70,text,true,,15059,228,44,44,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,58755,0,6544
+1622487597775,59117,HTTP Request,200,OK,oracleADW 1-102,text,true,,15059,228,43,43,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,58844,0,5931
+1622487597718,59179,HTTP Request,200,OK,oracleADW 1-264,text,true,,15059,228,42,42,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,58897,0,4087
+1622487597758,59201,HTTP Request,200,OK,oracleADW 1-16,text,true,,15059,228,41,41,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,58921,0,6459
+1622487597746,59355,HTTP Request,200,OK,oracleADW 1-30,text,true,,15059,228,40,40,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,59068,0,4042
+1622487597773,59330,HTTP Request,200,OK,oracleADW 1-21,text,true,,15059,228,39,39,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,59045,0,6460
+1622487597774,59431,HTTP Request,200,OK,oracleADW 1-225,text,true,,15059,228,38,38,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,59147,0,6228
+1622487597774,59525,HTTP Request,200,OK,oracleADW 1-164,text,true,,15059,228,37,37,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,59251,0,6084
+1622487597771,59535,HTTP Request,200,OK,oracleADW 1-60,text,true,,15059,228,36,36,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,59256,0,6850
+1622487597723,59590,HTTP Request,200,OK,oracleADW 1-273,text,true,,15059,228,35,35,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,59311,0,5188
+1622487597754,59640,HTTP Request,200,OK,oracleADW 1-345,text,true,,15059,228,34,34,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,59362,0,6281
+1622487597762,59659,HTTP Request,200,OK,oracleADW 1-33,text,true,,15059,228,33,33,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,59364,0,4045
+1622487597772,59727,HTTP Request,200,OK,oracleADW 1-49,text,true,,15059,228,32,32,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,59440,0,6599
+1622487597764,59827,HTTP Request,200,OK,oracleADW 1-95,text,true,,15059,228,31,31,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,59551,0,5659
+1622487597772,59839,HTTP Request,200,OK,oracleADW 1-12,text,true,,15059,228,30,30,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,59545,0,6786
+1622487597832,59841,HTTP Request,200,OK,oracleADW 1-378,text,true,,15059,228,29,29,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,59561,0,3974
+1622487597741,59980,HTTP Request,200,OK,oracleADW 1-11,text,true,,15059,228,28,28,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,59698,0,4063
+1622487597769,60052,HTTP Request,200,OK,oracleADW 1-202,text,true,,15059,228,27,27,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,59772,0,5234
+1622487597764,60060,HTTP Request,200,OK,oracleADW 1-103,text,true,,15059,228,26,26,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,59774,0,5545
+1622487597710,60218,HTTP Request,200,OK,oracleADW 1-192,text,true,,15059,228,25,25,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,59933,0,4085
+1622487597759,60198,HTTP Request,200,OK,oracleADW 1-18,text,true,,15059,228,24,24,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,59908,0,6144
+1622487597765,60258,HTTP Request,200,OK,oracleADW 1-87,text,true,,15059,228,23,23,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,59981,0,6160
+1622487597709,60416,HTTP Request,200,OK,oracleADW 1-311,text,true,,15059,228,22,22,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,60134,0,4092
+1622487597711,60421,HTTP Request,200,OK,oracleADW 1-231,text,true,,15059,228,21,21,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,60136,0,4096
+1622487597772,60456,HTTP Request,200,OK,oracleADW 1-353,text,true,,15059,228,20,20,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,60171,0,6511
+1622487597708,60622,HTTP Request,200,OK,oracleADW 1-297,text,true,,15059,228,19,19,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,60339,0,5367
+1622487597701,60640,HTTP Request,200,OK,oracleADW 1-294,text,true,,15059,228,18,18,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,60354,0,4116
+1622487597776,60655,HTTP Request,200,OK,oracleADW 1-127,text,true,,15059,228,17,17,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,60375,0,5157
+1622487597749,60689,HTTP Request,200,OK,oracleADW 1-230,text,true,,15059,228,16,16,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,60408,0,4056
+1622487597766,60768,HTTP Request,200,OK,oracleADW 1-52,text,true,,15059,228,15,15,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,60492,0,6726
+1622487597723,60891,HTTP Request,200,OK,oracleADW 1-329,text,true,,15059,228,14,14,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,60601,0,5097
+1622487597772,60864,HTTP Request,200,OK,oracleADW 1-5,text,true,,15059,228,13,13,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,60588,0,6652
+1622487597703,61046,HTTP Request,200,OK,oracleADW 1-305,text,true,,15059,228,12,12,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,60766,0,4251
+1622487597763,60993,HTTP Request,200,OK,oracleADW 1-77,text,true,,15059,228,11,11,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,60709,0,4023
+1622487597765,61057,HTTP Request,200,OK,oracleADW 1-145,text,true,,15059,228,10,10,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,60775,0,6133
+1622487597743,61096,HTTP Request,200,OK,oracleADW 1-291,text,true,,15059,228,9,9,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,60820,0,5363
+1622487597774,61175,HTTP Request,200,OK,oracleADW 1-137,text,true,,15059,228,8,8,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,60895,0,6064
+1622487597774,61189,HTTP Request,200,OK,oracleADW 1-206,text,true,,15059,228,7,7,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,60893,0,6097
+1622487597774,61282,HTTP Request,200,OK,oracleADW 1-113,text,true,,15059,228,6,6,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,61003,0,6142
+1622487597712,61344,HTTP Request,200,OK,oracleADW 1-215,text,true,,15059,228,6,6,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,61062,0,4077
+1622487597774,61393,HTTP Request,200,OK,oracleADW 1-142,text,true,,15059,228,4,4,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,61111,0,6430
+1622487597755,61469,HTTP Request,200,OK,oracleADW 1-235,text,true,,15059,228,3,3,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,61179,0,4047
+1622487597723,61505,HTTP Request,200,OK,oracleADW 1-323,text,true,,15059,228,2,2,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,61221,0,5146
+1622487597765,67584,HTTP Request,200,OK,oracleADW 1-241,text,true,,15059,228,1,1,https://g710506a63ec50c-demodb.adb.us-ashburn-1.oraclecloudapps.com/ords/root/may2018/,67311,0,6081
